@@ -1,0 +1,3 @@
+[submodule "lib/fast-redact"]
+	path = lib/fast-redact
+	url = https://github.com/Kenzuya/fast-redact
